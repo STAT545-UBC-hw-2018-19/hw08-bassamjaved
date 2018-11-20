@@ -3,8 +3,8 @@ library(tidyverse)
 library(shinythemes)
 library(DT)
 
-setwd("~/Documents/STAT\ 545/hw08")
-load("IHDS-II.Rda")
+setwd("~/Documents/STAT\ 545/hw08-bassamjaved/IHDS")
+load("ihds.Rda")
 ihds <- da36151.0002 %>% select(IDHH, INCOME, FU1, CGMOTORV, CG8, CG21, METRO, METRO6) %>% 
   head(5000)
 
