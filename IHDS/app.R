@@ -4,9 +4,8 @@ library(shinythemes)
 library(DT)
 
 setwd("~/Documents/STAT\ 545/hw08-bassamjaved/IHDS")
-load("ihds.Rda")
-ihds <- da36151.0002 %>% select(IDHH, INCOME, FU1, CGMOTORV, CG8, CG21, METRO, METRO6) %>% 
-  head(5000)
+load("ihds_excerpt.rda")
+ihds <- ihds_excerpt %>% head(5000)
 
 ui <- fluidPage(
   titlePanel("India Human Development Survey"),
