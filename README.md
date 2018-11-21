@@ -1,7 +1,28 @@
-# hw08-seed
+# hw08-bassamjaved
+hw08-bassamjaved created by GitHub Classroom
 
-This repo contains the BC Liquor app as a boilerplate for students to add to in Homework 08.
+### Required packages
 
-The code and data are from [Dean Attali's tutorial](https://deanattali.com/blog/building-shiny-apps-tutorial). The code can specifically be found [here](https://deanattali.com/blog/building-shiny-apps-tutorial/#12-final-shiny-app-code).
+shiny<br/>
+tidyverse<br/>
+shinythemes<br/>
+DT
 
+### Contents
 
+[]()<br/>
+
+### Purpose
+
+This is a repository containing a Shiny App as a submission for HW08 assignment for STAT 547.
+
+It contains an excerpt of University of Maryland's India Human Development Survey.
+
+### Author
+
+Bassam Javed<br/>
+_GitHub.com username\:_ bassamjaved
+
+### Link to repository
+
+[]()
