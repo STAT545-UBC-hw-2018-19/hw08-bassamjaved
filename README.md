@@ -33,3 +33,7 @@ _GitHub.com username\:_ bassamjaved
 ### Link to repository
 
 [https://github.com/STAT545-UBC-students/hw08-bassamjaved](https://github.com/STAT545-UBC-students/hw08-bassamjaved)
+
+### Link to hosted app
+
+[https://bassamjaved.shinyapps.io/IHDS/](https://bassamjaved.shinyapps.io/IHDS/)
