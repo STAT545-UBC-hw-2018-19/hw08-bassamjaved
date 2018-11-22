@@ -23,7 +23,7 @@ Note that the folder 'bcl' contains a Shiny App that was seeded to this repo. Di
 [ihds_excerpt](https://github.com/STAT545-UBC-students/hw08-bassamjaved/blob/master/IHDS/ihds_excerpt.rda) excerpted data from the IHDS database, in .rda format<br/>
 [full-data subfolder](https://github.com/STAT545-UBC-students/hw08-bassamjaved/tree/master/IHDS/full-data) contains the following:<br/>
 [excerptData.R](https://github.com/STAT545-UBC-students/hw08-bassamjaved/blob/master/IHDS/full-data/excerptData.R) R script for excerpting IHDS data <br/>
-[ihds.rda](https://github.com/STAT545-UBC-students/hw08-bassamjaved/blob/master/IHDS/full-data/ihds.rda) full IHDS database, downloaded from [https://ihds.umd.edu]((https://ihds.umd.edu) <br/>
+[ihds.rda](https://github.com/STAT545-UBC-students/hw08-bassamjaved/blob/master/IHDS/full-data/ihds.rda) full IHDS database, downloaded from [https://ihds.umd.edu](https://ihds.umd.edu)<br/>
 
 ### Author
 
